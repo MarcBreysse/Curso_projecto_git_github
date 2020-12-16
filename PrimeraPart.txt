@@ -1,2 +1,3 @@
 Hola,
-Estic realitzant rlxurs de GIT
+Estic realitzant el curs de GIT. 
+Genial!
