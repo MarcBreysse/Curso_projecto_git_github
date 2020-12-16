@@ -1,3 +1,4 @@
 Hola,
 Estic realitzant el curs de GIT. 
+Despres de crear la branca1, tornem al master i acabem de modificar el arxiu
 Genial!
